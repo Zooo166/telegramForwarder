@@ -122,3 +122,5 @@ A: Yes.
 
 Q: Can I set up automatic forwarding from another bot?  
 A: Yes.
+https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Zooo166/telegram forwqrder)
+
